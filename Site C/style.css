@@ -1,0 +1,103 @@
+
+body {
+    background: #faf7f7;
+    font-family: 'Quicksand', sans-serif;
+}
+.home{
+    position: relative;
+    bottom: 70px;
+    right: 90px;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background: white;
+    transition: all 0.3s;
+}
+
+
+}
+.home a:hover {
+    background: cacad0;
+    transition: 0.3s;
+    transform: scale(1.2);
+
+}
+
+section{
+    margin: 0 2em 0;
+
+}
+
+p {
+    font-size: 20px;
+    background: white;
+    border: 10px solid white;
+    border-radius: 10px;
+    text-align: left;
+    margin: 0 50px 0;
+}
+
+strong{
+    font-weight: bold;
+    color: green;
+}
+em{
+    font-style:italic;
+}
+
+/* css principal */
+.foto {
+   top: 10px;
+   border: 2px solid black;
+   position: relative;
+   left:  510px;
+}
+
+.titulo-principal{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.cambe-pr{
+    
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    left: 2em;
+    width: 350px;
+    position: relative;
+    float: left;
+    margin: 0px 50px 10px 30px;
+}
+
+.paragrafo{
+    
+    
+}
+.paragrafo-2{
+   
+   
+}
+
+.localização {
+    border-radius: 10px;
+    background: white;
+    padding: 3em 0;
+}
+
+
+.titulo-principal h3 {
+   padding-top: 15px;
+}    
+
+
+.localização p {
+    text-align: center;
+    padding: 0 0 2em;
+}
+

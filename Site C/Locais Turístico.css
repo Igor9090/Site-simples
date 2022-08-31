@@ -1,0 +1,115 @@
+
+body{
+     background: #faf7f7;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
+header {
+    border-bottom: #000000 2px solid;
+    background-color: rgb(62, 184, 62) ;
+    padding: 100px;
+    
+}
+
+p{
+    font-size: 20px;
+    background: white;
+    border: 10px solid white;
+    border-radius: 10px;
+    text-align: left;
+    margin: 0 2em 0;
+    padding-bottom: 20px;
+}
+
+
+strong {
+    font-weight: bold;
+    color: black;
+}
+
+.posiçao{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
+}
+
+nav {
+    position: absolute;
+}
+
+
+.home {
+    width: 10%;
+    position: relative;
+    bottom: 70px;
+    right: 90px;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background: white;
+    transform: scale(1.1);
+}
+
+
+/* css principal */
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    padding-top: 30px;
+    margin: 0 0 2em;
+    clear: left;
+}
+
+.subtitulo {
+    color: #white;
+    margin: 0 40px;
+    font-size: 24px;
+    padding: 1em ;
+}
+.subtitulo2 {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 70px;
+    margin: 0 40px;
+    font-size: 24px;
+}
+
+.paragrafo{
+    padding-bottom: 160px;
+}
+
+.locais {
+
+    width: 500px;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: white;
+    position: relative;
+    top: 5px;
+    left: 2em;
+    width: 350px;
+    position: relative;
+    left: 50px;
+    float: left;
+    margin: 10px 65px 10px 10px;
+}
+ 
+table {
+    margin: 40px 40px 40px 60px;
+    padding-left: 50px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td , th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}

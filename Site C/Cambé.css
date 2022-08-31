@@ -1,0 +1,58 @@
+
+body {
+    background: url(kkk.jpg);
+}
+
+header {
+    border-bottom: #f8f8f8 2px solid;
+    background-color: rgb(62, 184, 62);
+    padding: 20px;    
+}
+
+.posiçao{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+
+.brs {
+    width: 10%;
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background: white;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    border: 2px solid #000000;
+    border-radius: 4px;
+    padding: 5px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    background: #ffffff;
+    transition: 0.8s all;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+nav a:hover{
+    background: #dbdbdbee;
+    color: #32CD32;
+    transform: rotate(5deg) ;
+    text-decoration: none;
+}
+
+
